@@ -33,7 +33,7 @@ header {
     background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
-    -webkit-background-size: contain;
+    -webkit-background-size: auto;
 }
 
 header h3 {
