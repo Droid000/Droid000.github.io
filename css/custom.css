@@ -77,7 +77,7 @@ header .btn {
 
 .navbar-default {
     border-color: transparent;
-    background-color: rgb(205, 47, 47);
+    background-color: transparent;
     transition: all .35s;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
